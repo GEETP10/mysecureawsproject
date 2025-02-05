@@ -1,0 +1,3 @@
+[2025-02-04 14:30:12] Failed login attempt from IP: 192.168.1.50
+[2025-02-04 14:32:45] Unauthorized access detected on S3 bucket 'my-security-project'
+[2025-02-04 14:35:22] IAM policy change detected: Role 'S3AccessRole' modified
